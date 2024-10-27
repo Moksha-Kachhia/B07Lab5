@@ -1,4 +1,4 @@
-package Test;
+package lab4;
 
 import static org.junit.Assert.assertNotNull;
 import org.junit.jupiter.api.Test;
