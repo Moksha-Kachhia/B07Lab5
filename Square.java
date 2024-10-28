@@ -13,7 +13,7 @@ public class Square {
         return length*4;
     }
 
-    public boolean moveSquare(Point newX, Point newY) {
+    public void moveSquare(double newX, double newY) {
         this.topLeft.x = newX;
         this.topLeft.y = newY;
     }
